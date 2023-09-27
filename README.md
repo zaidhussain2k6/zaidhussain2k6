@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zaid Hussain
 ====================================================================================================================================
 
-Front-end Web Developer & UI Designer
+Frontend Web Developer & UI Designer
 ------------------------------------
 
 I am a dedicated Frontend Web Developer and UI Designer with a passion for creating visually appealing and highly functional web applications. With a strong foundation in web development and a keen eye for design, I am committed to delivering seamless user experiences through my work.
