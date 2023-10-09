@@ -44,4 +44,4 @@ src="https://img.shields.io/twitter/follow/uxuizaidhussain?logo=twitter&style=fo
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uzairhussain193&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=zaidhussain2k6&limit=5&theme=dark&combine_all_yearly_contributions=true)
