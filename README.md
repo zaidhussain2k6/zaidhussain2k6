@@ -43,10 +43,5 @@ src="https://img.shields.io/twitter/follow/uxuizaidhussain?logo=twitter&style=fo
 <a href="http://www.github.com/ZaidHussain2k6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidHussain2k6&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/zaidhussain2k6"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=uzairhussain193&limit=5&theme=dark&combine_all_yearly_contributions=true)
