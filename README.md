@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://komarev.com/ghpvc/?username=zaidhussain2k6&color=blueviolet&label=Profile+Views)
 <br />
 
-Frontend Web Developer & UI Designer
+Frontend Web Developer & UX Designer
 ------------------------------------
 
-I am a dedicated Frontend Web Developer and UI Designer with a passion for creating visually appealing and highly functional web applications. With a strong foundation in web development and a keen eye for design, I am committed to delivering seamless user experiences through my work.
+I am a dedicated Frontend Web Developer and UX Designer with a passion for creating visually appealing and highly functional web applications. With a strong foundation in web development and a keen eye for design, I am committed to delivering seamless user experiences through my work.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [My Portfolio](http://zaidhussain.netlify.app/)
