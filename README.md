@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/uxuizaidhussain?logo=twitter&style=fo
 
 ### Badges
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/10f87d8c-310f-4873-8418-db9b86b31ed1/deploy-status)](https://app.netlify.com/sites/zaidhussain/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10f87d8c-310f-4873-8418-db9b86b31ed1/deploy-status)](https://zaidhussain.netlify.app/)
 
 <a href="http://www.github.com/ZaidHussain2k6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidHussain2k6&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
