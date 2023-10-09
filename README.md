@@ -47,5 +47,7 @@ src="https://img.shields.io/twitter/follow/uxuizaidhussain?logo=twitter&style=fo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidhussain2k6&show_icons=true&locale=en" alt="zaidhussain2k6" /></p>
 
+[![An image of @zaidhussain2k6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaidhussain2k6)](https://holopin.io/@zaidhussain2k6)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaidhussain2k6&limit=5&theme=dark&combine_all_yearly_contributions=true)
