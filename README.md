@@ -42,6 +42,8 @@ src="https://img.shields.io/twitter/follow/uxuizaidhussain?logo=twitter&style=fo
 
 <a href="http://www.github.com/ZaidHussain2k6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidHussain2k6&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaidhussain2k6&limit=5&theme=dark&combine_all_yearly_contributions=true)
