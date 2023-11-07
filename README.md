@@ -26,23 +26,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/uiuxdesigner286 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-74894090-2e9b-4899-9122-ac9c0ef06c59' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >uiuxdesigner286</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I'm a dedicated UI/UX Designer & Frontend Developer, merging creativity and technical expertise. With a keen eye for design aesthetics and a knack for coding, I bring ideas to life through captivating user experiences. Let's collaborate to elevate your project's visual appeal and functionality. I specialize in user-centric design, ensuring your audience enjoys seamless interactions. My proficiency in HTML, CSS, and JavaScript allows me to translate designs into responsive and interactive websites or applications.</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-74894090-2e9b-4899-9122-ac9c0ef06c59' src='https://widgets.fiverr.com/api/v1/seller/uiuxdesigner286?widget_id=74894090-2e9b-4899-9122-ac9c0ef06c59' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
-
-
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
