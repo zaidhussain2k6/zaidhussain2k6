@@ -53,3 +53,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidhussain2k6&show_icons=true&locale=en" alt="zaidhussain2k6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidhussain2k6&" alt="zaidhussain2k6" /></p>
+
+
+<p><img align="center" src="https://www.githubwrapped.io/zaidhussain2k6&" alt="zaidhussain2k6" /></p>
