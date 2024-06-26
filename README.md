@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=zaidhussain2k6&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://developer.atlassian.com/console/install/5f542190-4539-464e-8102-f1d6460e38c1?signature=e5fa0f648990ab876c22e5981f84a55659bdb63e321bcfee760bcfbaa4590f95&product=confluence)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaidhussain2k6&limit=5&theme=dark&combine_all_yearly_contributions=true)
