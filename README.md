@@ -16,16 +16,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=zaidhussain2k6&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://developer.atlassian.com/console/install/5f542190-4539-464e-8102-f1d6460e38c1?signature=e5fa0f648990ab876c22e5981f84a55659bdb63e321bcfee760bcfbaa4590f95&product=confluence)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaidhussain2k6&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://myrandom-meme-generator.glitch.me/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zaidhussain2k6&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zaidhussain2k6&icon=0&color=0)](https://visitcount.itsvg.in)
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zaidhussain_2k6) 
 
