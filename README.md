@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Portfolio Website<br><br>🌱 I’m currently learning JavaScript, React & Next JS<br><br>👯 I’m looking to collaborate on Frontend Development & UX Designing Projects<br><br>👨‍💻 All of my projects are available at https://github.com/zaidhussain2k6<br><br>📝 I regularly write articles on https://medium.com/@uxuizaidhussain<br><br>💬 Ask me about UX Research and Frontend UI Development<br><br>📫 How to reach me zaidhussain2k6@gmail.com<br><br>⚡ Hobbies Problem Solver & Tech Enthusiast
+🔭 I’m currently working on Personal Portfolio Website<br><br>🌱 I’m currently learning C++, C & JavaScript<br><br>👯 I’m looking to collaborate on UX/UI Designing Projects<br><br>👨‍💻 All of my projects are available at https://github.com/zaidhussain2k6<br><br>💬 Ask me about UX Research UI Designing<br><br>📫 How to reach me zaidhussain2k6@gmail.com<br><br>⚡ Hobbies Problem Solver & Tech Enthusiast
 
 
 ## 🌐 Socials:
